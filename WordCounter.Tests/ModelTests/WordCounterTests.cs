@@ -1,12 +1,12 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Project.Models;
+using WordCounter.Models;
 using System.Collections.Generic;
 
-namespace Project.Tests
+namespace WordCounter.Tests
 {
     [TestClass]
-    public class ProjectTester
+    public class WordCounterTester
     {
         [TestMethod]
         public void Test_Name_Result()

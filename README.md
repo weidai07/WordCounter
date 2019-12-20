@@ -1,18 +1,18 @@
-# Project
-##### By Name
-###### Created 19 December, 2019
+# Word Counter 
+##### By Wei Dai
+###### Created 20 December, 2019
 
 ## Description
 
-This project allows users to ...
+This project is a demostration of my week two knowledge from the C# course.  
  
 ## Links:
 
-Github - https://github.com/ (Name/ProjectName)
+Github - https://github.com/weidai07/WordCounter
 
 ## Setup/Installation Requirements:
 
-1. Open https://github.com/ (Name/ProjectName)
+1. Open https://github.com/weidai07/WordCounter
 2. Clone repository to local machine 
 3. Build and Run project
 
@@ -23,7 +23,14 @@ Github - https://github.com/ (Name/ProjectName)
 
 ### Specification
 
-  This programs allows users to ...
+This project allows users to enter a sentence and then enter a word. The program will check if the word the user enters will match with any words in the sentence, full words only! For instance: 
+
+| Input | Output |
+| :-------------     | :------------- | :------------- |
+| Enter a sentence | Sentence |
+| Enter a word | x |
+| Selected word | y |
+
 
 ## Known Bugs
 
@@ -36,7 +43,7 @@ Github - https://github.com/ (Name/ProjectName)
 
 ### License:
 
-Copyright (c) 2019 Name
+Copyright (c) 2019 Wei Dai
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
