@@ -8,11 +8,7 @@ namespace WordCounter.Tests
     [TestClass]
     public class WordCounterTester
     {
-        [TestMethod]
-        public void Test_Name_Result()
-        {
-            //Test Code 
-        }
+
  
     }
 }

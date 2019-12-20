@@ -7,7 +7,12 @@ namespace WordCounter.Models
   {
     static void Main()
     {
-      Console.WriteLine("Welcome to Word Counter!"); 
+      // Console.WriteLine("Welcome to Word Counter Program!"); 
+      // Console.WriteLine("Please Enter a Sentence!");
+      // Console.WriteLine("Now Enter a Word!");
+      // string userInput = Console.ReadLine();
+      // Console.WriteLine("The word you entered does not match any words from your sentence.");
+      // Console.WriteLine("The word you entered does match a word or words from your sentence.");
 
        
     }
