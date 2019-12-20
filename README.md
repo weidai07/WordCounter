@@ -16,7 +16,8 @@ Github - https://github.com/weidai07/WordCounter
 2. Clone repository to local machine 
 3. Build and Run project
 
-  - $ dotnet build - when you are ready to build project
+  - $ dotnet restore - when you are ready to restore theproject
+  - $ dotnet build - when you are ready to build the project
   - $ dotnet run - to run the project 
   - $ dotnet test - for testing the project
   
@@ -27,9 +28,9 @@ This project allows users to enter a sentence and then enter a word. The program
 
 | Input | Output |
 | :-------------     | :------------- | :------------- |
-| Enter a sentence | Sentence |
-| Enter a word | x |
-| Selected word | y |
+| Enter a sentence | "Hello World" |
+| Enter a word | "World" |
+| Sentence contains the word | Yes |
 
 
 ## Known Bugs

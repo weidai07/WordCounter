@@ -1,13 +1,13 @@
 using System;
 using System.Collections.Generic;
 
-namespace WordCounterFile.Models
+namespace WordCounter.Models
 {
-  public class WordCounter
+  public class WordCounters2
   {
-    public WordCounter()
+    public WordCounter1()
     {
-    
+ 
     }
   }
 }

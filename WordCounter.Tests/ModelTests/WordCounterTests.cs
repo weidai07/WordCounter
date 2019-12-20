@@ -9,6 +9,5 @@ namespace WordCounter.Tests
     public class WordCounterTester
     {
 
- 
     }
 }
