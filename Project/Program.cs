@@ -5,7 +5,7 @@ namespace Project.Models {
   public class Program{
     static void Main()
     {
-      //Code
+      //Code 
     }
   }
 }
