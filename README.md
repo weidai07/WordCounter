@@ -2,7 +2,7 @@
 ##### By Wei Dai
 ###### Created 20 December, 2019
 
-## Description
+## Description 
 
 This project is a demostration of my week two knowledge from the C# course.  
  
@@ -16,7 +16,7 @@ Github - https://github.com/weidai07/WordCounter
 2. Clone repository to local machine 
 3. Build and Run project
 
-  - $ dotnet restore - when you are ready to restore theproject
+  - $ dotnet restore - when you are ready to restore the dependencies of the project
   - $ dotnet build - when you are ready to build the project
   - $ dotnet run - to run the project 
   - $ dotnet test - for testing the project
@@ -41,6 +41,7 @@ This project allows users to enter a sentence and then enter a word. The program
 
 * C#
 * .NET
+* Microsoft(MS) Test
 
 ### License:
 

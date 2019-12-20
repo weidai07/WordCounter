@@ -8,6 +8,6 @@ namespace WordCounter.Tests
     [TestClass]
     public class WordCounterTester
     {
-
+ 
     }
 }

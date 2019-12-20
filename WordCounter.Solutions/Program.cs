@@ -15,6 +15,6 @@ namespace WordCounter.Models
       string UserWord = Console.ReadLine();
       Console.WriteLine("No, the word you entered does not match any words from your sentence.");
       Console.WriteLine("Yes, the word you entered does match a word or words from your sentence.");
-    }
+    } 
   }
 }
