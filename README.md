@@ -30,7 +30,7 @@ This project allows users to enter a sentence and then enter a word. The program
 | :-------------     | :------------- | :------------- |
 | Enter a sentence | "Hello World" |
 | Enter a word | "World" |
-| Sentence contains the word | Yes |
+| Sentence contains the word | "World" |
 
 
 ## Known Bugs

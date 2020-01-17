@@ -11,7 +11,7 @@ namespace WordCounterCheck.Models {
       WordCounter MyWord = new WordCounter(UserInput);
       while(UserInput != "1")
       { 
-        Console.WriteLine("Please Enter the Words You Would Like to Search");
+        Console.WriteLine("Please Enter the Word You Would Like to Search");
         UserInput = Console.ReadLine().ToLower();
         if (UserInput == "1")
         {
@@ -24,9 +24,9 @@ namespace WordCounterCheck.Models {
       }
       List<string> results = MyWord.Check();
       Console.WriteLine("Matches: ");
-      foreach(string w in results)
+      foreach(string checker in results)
       {
-        Console.WriteLine(w);
+        Console.WriteLine(checker);
       }
     }
   }

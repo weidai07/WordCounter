@@ -48,7 +48,9 @@ namespace WordCounterCheck.Models
         if(size == 0)
         {
           return;
-        } else {
+        } 
+        else 
+        {
           size -= 1;
           for(int i = 0; i < Input.Length; i++)
           {
