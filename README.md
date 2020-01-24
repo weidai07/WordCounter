@@ -24,13 +24,18 @@ Github - https://github.com/weidai07/WordCounter
 
 ### Specification
 
-This project allows users to enter a sentence and then enter a word. The program will check if the word the user enters will match with any words in the sentence, full words only! For instance: 
+This program is designed to check and see if a sentence includes the word a user inputs and counts how many time the word is included inside of the sentence.
 
-| Input | Output |
-| :-------------     | :------------- | :------------- |
-| Enter a sentence | "Hello World" |
-| Enter a word | "World" |
-| Sentence contains the word | "World" |
+For example:
+
+| Function | Sentence | Input | Output |
+| :-------------     | :------------- | :------------- | :------------- |
+| The program will check for word matches | "Hello World" | "world" | true |
+| The program will check for and exclude partial word matches | "water waterford" | "water" | 1 |
+| The program will check for multiple word matches | "Hello hello" | "hello" | 2 |
+| The program will check for punctuational word matches | "Hello! Hello" | "Hello" | 1 |
+| The program will check for capitalization word matches | "hi HI Hi hI" | "hi" | 4 |
+| The program will check for zero word matches | "blue skyline" | "ocean" | 0 |
 
 
 ## Known Bugs
